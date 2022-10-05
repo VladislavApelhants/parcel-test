@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "parcel-test",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://VladislavApelhants.github.io/parcel-test",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /parcel-test/"
   },
   "repository": {
     "type": "git",
